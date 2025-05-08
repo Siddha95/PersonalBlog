@@ -1,8 +1,6 @@
 # PersonalBlog
 A personal blog made with the MERN stack 
 
-ROAD MAP:
-Certamente! Costruire un blog personale in stile "Zen Habits" usando lo stack MERN è un ottimo progetto. Richiede di toccare tutti i punti chiave dello sviluppo web full-stack. Ecco una scaletta dettagliata dei passaggi, pensata per guidarti senza fornirti il codice pronto:
 
 Fase 1: Pianificazione e Setup Iniziale
 
